@@ -1,8 +1,3 @@
 faculty = ["usman","saif","ali"]
-cofounder =[]
-cofounder.append("saif")
-cofounder.append("ali")
-print("cofounder")
-faculty.remove("saif")
-faculty.append("ali")
+faculty[1] ="umair"
 print("faculty")
